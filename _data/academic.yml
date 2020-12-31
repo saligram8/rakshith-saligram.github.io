@@ -1,0 +1,31 @@
+- Institution: Integrated Circuits and Systems Research Lab
+  Position:    Graduate Research Assistant
+  StartDate: 2019
+  EndDate: Present
+  first: true   # one must be true to properly display
+  description: >
+    Areas of Interest - Cryogenic CMOS Circuits, High Speed IO Design, VLSI
+
+- Institution: Integrated Circuits and Systems Research Lab
+  Position:    Graduate Research Assistant
+  StartDate: 2019
+  EndDate: Present
+  first: false   # one must be true to properly display
+  description: >
+    Areas of Interest - Cryogenic CMOS Circuits, High Speed IO Design, VLSI
+
+- Institution: Integrated Circuits and Systems Research Lab
+  Position:    Graduate Research Assistant
+  StartDate: 2019
+  EndDate: Present
+  first: false   # one must be true to properly display
+  description: >
+    Areas of Interest - Cryogenic CMOS Circuits, High Speed IO Design, VLSI
+
+- Institution: Integrated Circuits and Systems Research Lab
+  Position:    Graduate Research Assistant
+  StartDate: 2019
+  EndDate: Present
+  first: false   # one must be true to properly display
+  description: >
+    Areas of Interest - Cryogenic CMOS Circuits, High Speed IO Design, VLSI

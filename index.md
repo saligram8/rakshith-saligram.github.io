@@ -3,8 +3,8 @@ layout: home
 title: 
 date: 2020-11-20 
 ---
-## Hi, I'm Dumbarton 
-Dumbarton is a Jekyll Theme developed by <a href="https://github.com/tcbutler320"> Tyler Butler </a>. The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on [Github](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton), feel free to make contributions and feature requests and don't forget to give it a star.
+## Hi, I'm Rakshith Saligram 
+I am a Graduate Research Assistant at the Integrated Circuits and Systems Research Lab <a href="https://icsrl.ece.gatech.edu"> (ICSRL) </a> working under Prof.<a href="https://www.ece.gatech.edu/faculty-staff-directory/arijit-raychowdhury"> Arijit Raychowdhury.</a> I am exploring behavior of bulk CMOS, FDSOI and FinFETs at Cryogenic Temperatures and circuits which can provide best performance in terms of delay and power at these temperatures. The current target application is for High-Performance Computing and Quantum Interface. I am also interseted in looking into deep-space application in the future. As a secondary research area I am working on High-Speed Interconnects and Signaling schemes for 2.5D and 3D integrated circuits. I had also previously worked on Revesible Logic Circuits and its low cost implementations. You can find my papers under the publications tab. I have also enlisted my coursework and courses I have taught.
 
 <a href="/about.html" class="highlighted">Read More</a>
 

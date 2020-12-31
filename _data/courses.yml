@@ -1,17 +1,63 @@
-- Course: POL 554 International Security Studies
-  Program: School of Public and International Affairs  
-  School: Harvard
-  id: POL554
-  description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  link: https://example.com
+- Course: ECE 6133 Physical Design Automation of VLSI Systems
+  Program: School of Electrical and Computer Engineering  
+  School: Georgia Institute of Technology
+  id: ECE6133
+  description: > 
+  link:
 
-- Course: POL 585 International Political Economy
-  Program: School of Public and International Affairs
-  School: Harvard
-  id: POL585
+- Course: ECE 6412 Analog Integrated Circuit Design
+  Program: School of Electrical and Computer Engineering
+  School: Georgia Institute of Technology
+  id: ECE6412
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
-  link: https://example.com
+  link: 
+
+- Course: ECE 6130 Advanced VLSI Systems
+  Program: School of Electrical and Computer Engineering
+  School: Georgia Institute of Technology
+  id: ECE6130
+  description: >
+  link: 
+
+- Course: ECE 6140 Digital Systems Test
+  Program: School of Electrical and Computer Engineering
+  School: Georgia Institute of Technology
+  id: ECE6140
+  description: >
+  link: 
+
+- Course: EE 537 Modern Solid State Devices
+  Program: Ming Hsieh Department of Electrical and Computer Engineering
+  School: University of Southern California
+  id: EE537
+  description: >
+  link: 
+
+- Course: EE 577A/B VLSI System Design
+  Program: Ming Hsieh Department of Electrical and Computer Engineering
+  School: University of Southern California
+  id: EE577A/B
+  description: >
+  link: 
+
+- Course: EE 552 Asynchronous VLSI System 
+  Program: Ming Hsieh Department of Electrical and Computer Engineering
+  School: University of Southern California
+  id: EE552
+  description: >
+  link: 
+
+- Course: EE 557 Computer Systems Architecture
+  Program: Ming Hsieh Department of Electrical and Computer Engineering
+  School: University of Southern California
+  id: EE557
+  description: >
+  link: 
+
+- Course: EE 560 Digital System Design Tools and Techniques (audit)
+  Program: Ming Hsieh Department of Electrical and Computer Engineering
+  School: University of Southern California
+  id: EE560
+  description: >
+  link: 
+

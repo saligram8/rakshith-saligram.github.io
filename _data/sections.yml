@@ -24,3 +24,16 @@
   url: projects.html
   first: false
 
+- name: Academic Experience
+  id: Academic
+  description: Research and Teaching Experience
+  content:
+  url: academic.html
+  first: false
+
+- name: Corporate Experience
+  id: Industry
+  description: Industry Experience
+  content:
+  url: industry.html
+  first: false
